@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dalaxshan</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🔭 I’m currently working on [Dazzle Story book](https://dazzle.storytime.asia/)
+- 🔭  I’m currently working on [The Web sushi](https://thewebsushi.com/) as Fullstack developer.
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Django (Python),Flask (Python), ASP.NET,Vue.js**
 
-- 👯 I’m looking to collaborate on [Diwerse](https://diwerse.com/)
+- 👯 I’m currently collaborating on [Diwerse](https://diwerse.com/)
 
-- 🤝 I’m looking for help with [MAKI POS System](https://maki-pos.thewebsushi.com/)
+- 🤝 I have recently completed work on [Dazzle Story book](https://dazzle.storytime.asia/)
 
 - 💬 Ask me about **MERN,Next.js, Nest.js**
 
 - 📫 How to reach me **ujanth98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Inlc49Yxuzn2QR3ilIKUtA7wfdIPDQi3/view?usp=sharing](https://drive.google.com/file/d/1Inlc49Yxuzn2QR3ilIKUtA7wfdIPDQi3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Inlc49Yxuzn2QR3ilIKUtA7wfdIPDQi3/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
