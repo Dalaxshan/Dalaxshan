@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dalaxshan</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-- 🔭  I’m currently working on [The Web sushi](https://thewebsushi.com/) as Fullstack developer.
+- 🔭  I’m currently working on [Ventrax](https://www.ventrax.lk/) as Fullstack developer.
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Django (Python),Flask (Python), ASP.NET,Vue.js**
 
